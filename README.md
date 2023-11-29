@@ -6,6 +6,6 @@ Analysing who survived, who would survive?
 Requirements
 
 Python 
-in Google Collabs
+Jupyter Notebook
 Pandas, seaborn and matplotlib library.
 
